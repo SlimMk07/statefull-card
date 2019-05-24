@@ -1,0 +1,94 @@
+.main{
+  background-image: url("back-ground.jpg");
+  background-repeat: no-repeat;
+  max-width: 31%;
+  height: 22rem;
+  border: 2px transparent solid;
+  border-radius: 1rem;
+  font-family: 'PT Sans', sans-serif; 
+  line-height: 0.8rem;
+
+}
+
+.credit{
+  color: whitesmoke;
+  font-size: 2.5rem;
+  margin-top: 2rem;
+  margin-right: 3rem;
+}
+.head{
+  display: flex;
+  justify-content: center;
+}
+
+.puce{
+  width: 10%;
+  margin-left: 3rem;
+}
+.card-number{
+  color: goldenrod;
+  font-size: 2.5rem;
+  margin-left: 4rem;
+  
+}
+.bottom{
+  display: flex;
+ justify-content: space-around;
+}
+
+.holder{
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-left: 2rem;
+  color: aliceblue
+}
+.left{
+  display: flex;
+  align-items: center;
+}
+.middle{
+  display: flex;
+  align-items: center;
+  justify-content: space-between
+}
+.text{
+  display: flex;
+  align-items: center;
+}
+.valid{
+  color:aliceblue;
+  margin-left: 3rem;
+  font-size: 1rem;
+}
+.middle i{
+  color: aliceblue;
+  margin-left: 0.3rem;
+}
+.date{
+  color:aliceblue;
+  margin-left: 0.3rem;
+  font-size: 0.7rem;
+}
+.date span{
+  margin-left: 0.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  color:goldenrod
+}
+.master{
+  width: 22%;
+}
+
+.form{
+  width: 20%;
+}
+.form input{
+  background-image: linear-gradient(to bottom, #2c2739, #2a273a, #29283b, #27283b, #25293c);
+  font-size: 2rem;
+  color: white;
+  height: 3rem;
+  width: 25rem;
+  border: black solid 3px;
+  margin-left: 5rem;
+  margin-top: 2rem
+}
